@@ -1,0 +1,18 @@
+{
+  "name": "Nutrix — Analyse nutritionnelle",
+  "short_name": "Nutrix",
+  "description": "Scanner, comparer et comprendre les produits alimentaires",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F8F6",
+  "theme_color": "#126B52",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
